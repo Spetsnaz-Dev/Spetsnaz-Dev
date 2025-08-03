@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)" height="30" alt="AWS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
 
