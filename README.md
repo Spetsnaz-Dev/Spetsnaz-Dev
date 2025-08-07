@@ -24,7 +24,7 @@
 
 ### ✨ Fun Facts:
 - 🔭 I’m currently building: **AI apps + Blockchain infra**
-- 💬 Ask me about: **DSA, System Design, Node.js, Web3, FastAPI, Docker, AWS, Docker, Databases**
+- 💬 Ask me about: **DSA, System Design, Node.js, Python, Web3, FastAPI, Docker, AWS, Docker, Databases**
 - 🎯 Goal: **Build scalable & impactful software**
 - 🕹️ Fun fact: **I love debugging complex bugs more than solving them.**
 
